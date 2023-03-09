@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello! I'm Anna Tymofieieva
+
+### ReDI School Munich
+- #### I’m currently working on my education. I'm learning German and life in Germany.
+- #### I speak Ukrainian, Russian, English and already a little German.
+- #### I have skills in Photoshop, Corel and I can draw and draft well.
+- #### Previously, I worked with tables and finals.
+
 
 <!--
 **Anna-Tymofieieva/Anna-Tymofieieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
