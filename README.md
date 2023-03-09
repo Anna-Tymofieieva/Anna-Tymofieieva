@@ -1,6 +1,6 @@
 ## Hello! I'm Anna Tymofieieva
 
-### Student at ReDI School Munich
+### *ReDI School student*
 -  I’m currently working on my education. I'm learning German and life in Germany.
 -  I speak Ukrainian, Russian, English and already a little German.
 -  I have skills in Photoshop, Corel and I can draw and draft well.
